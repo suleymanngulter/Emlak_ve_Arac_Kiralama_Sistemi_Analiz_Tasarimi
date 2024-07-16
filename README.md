@@ -10,4 +10,6 @@ projede sırasıyla:
 - Iletişim diyagramları
 - Component diyagramları
 - Deployment diyagramları
+
+  
 Kavramlarını detaylı ve açıklayıcı bir şekilde kullandık.
